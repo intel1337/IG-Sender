@@ -1,4 +1,4 @@
-# LoopSet
+# IG-Sender
 Python GUI Instagram Message Sender
 
 # Screenshot
