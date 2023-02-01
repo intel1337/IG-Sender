@@ -18,7 +18,9 @@ Python GUI Instagram Message Sender
 Step 1 - Open CMD / a Shell in the folder
 Step 2 - Type : python Sender.py
 
+or 
 
+Step 1 - Open setup.bat
 ```
 
 
